@@ -2,7 +2,7 @@
 // SHWE Wingo — main entry (PHP)
 header('Content-Type: text/html; charset=utf-8');
 header('Cache-Control: no-store, no-cache, must-revalidate');
-?
+?>
 <!DOCTYPE html>
 <html lang="my">
 <head>
